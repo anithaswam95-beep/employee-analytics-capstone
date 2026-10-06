@@ -1,0 +1,3 @@
+# Optional — only needed to open the .ipynb locally (no Python code in this project).
+jupyter
+nbformat
